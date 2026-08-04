@@ -1,0 +1,79 @@
+{
+  "prereg": {
+    "parent": {
+      "file": "PREREG_20260804_likert_arm.md",
+      "sha256": "c8a8d3e2d645292fbd2f445eb2a5f356d980a2ff5ef7710b4a0b45e148661850",
+      "commit": "1f8a7b3"
+    },
+    "amend_a1": {
+      "file": "PREREG_AMEND_A1_20260804_likert_logit_prefill.md",
+      "sha256": "92f5b95c...7302",
+      "commit": "e704da4"
+    },
+    "amend_a1b": {
+      "file": "PREREG_AMEND_A1b_20260804_prefill_trailing_space.md",
+      "sha256": "b504eedc5875e6e5...",
+      "commit": "7597741"
+    }
+  },
+  "code_sha256": {
+    "run_probe.py": "07ba49e57d439af1179e8194a453226bdf46a05344330234bd343c442a8a8902",
+    "likert_master_v2.sh": "e4a78d056aa315e41353b1433bc9cf6196a4b5b2722980dfacf695a269b8b193",
+    "likert_items_v2.jsonl": "7a17bfadf608820eabdd2ad0dccf059b1f4e9db71c47befe0824d7fbca42e81e",
+    "postrun_likert_v2.sh": "60be0a135d4a2af2c5f0187c9342710e64fcc5f4449581d733c8e07a484b664e"
+  },
+  "frozen_params": {
+    "version": "v2 (AMENDMENT A1b)",
+    "cells": "logit cells only: A2v2 (yn P(yes)) + B1v2 (likert E[k]) \u2014 240 reads total",
+    "yn_prompt": "{S10 stem} Answer yes or no.",
+    "likert_prompt": "{S10 stem} Answer with a single integer from 0 (not at all) to 10 (very much).",
+    "prefill": "Answer: ",
+    "readout": {
+      "temperature": 0,
+      "n_predict": 1,
+      "n_probs": 40
+    },
+    "model_order": [
+      "llama3it",
+      "gemma2b",
+      "gemma9b",
+      "llama3base",
+      "mistral7b",
+      "phi4mini",
+      "qwen3_4b",
+      "ornith9b"
+    ],
+    "layers": {
+      "llama3it": 14,
+      "gemma2b": 14,
+      "gemma9b": 23,
+      "llama3base": 19,
+      "mistral7b": 9,
+      "phi4mini": 16,
+      "qwen3_4b": 10,
+      "ornith9b": 12
+    },
+    "band_c": {
+      "llama3it": 2.5,
+      "gemma2b": 32,
+      "gemma9b": 144,
+      "mistral7b": 8,
+      "llama3base": 64,
+      "phi4mini": 64,
+      "qwen3_4b": 64,
+      "ornith9b": 64
+    },
+    "collapse_c": 256,
+    "conditions": [
+      "baseline",
+      "band",
+      "collapse"
+    ],
+    "engine": "/home/darkfibr/llama.cpp/build/bin/llama-server (llama-server-new)",
+    "ngl": 99,
+    "threads": 16,
+    "port": 8399
+  },
+  "note": "v2 manifest frozen AFTER prefill patch, BEFORE first v2 battery call. v1 tree (likert_results/) untouched and reported as tail-slice. Prefill trailing space per A1b (smoke-verified: digit at pos0 on phi4/llama3/gemma2). Sampled cells (B2) DONE in v1 \u2014 not rerun.",
+  "frozen_at_utc": "2026-08-04T07:21:08.366832Z"
+}

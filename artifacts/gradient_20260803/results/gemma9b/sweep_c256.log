@@ -1,0 +1,2 @@
+server up :8399 load=4.0s
+WROTE /home/darkfibr/gradient_extension/results/gemma9b/battery_c256.jsonl

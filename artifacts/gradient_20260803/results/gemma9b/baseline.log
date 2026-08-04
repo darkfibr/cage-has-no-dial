@@ -1,0 +1,2 @@
+server up :8399 load=6.1s
+WROTE /home/darkfibr/gradient_extension/results/gemma9b/battery_baseline.jsonl

@@ -1,0 +1,2 @@
+server up :8399 load=4.1s
+WROTE /home/darkfibr/gradient_extension/results/mistral7b/overhang50.jsonl

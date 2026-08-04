@@ -1,0 +1,41 @@
+[2026-08-03T23:08:42-04:00] POSTRUN waiting for MASTER COMPLETE...
+[2026-08-03T23:08:42-04:00] MASTER COMPLETE detected. Starting post-run chain.
+wrote 120 to /home/darkfibr/gradient_extension/heldout_probe.jsonl
+gemma2b: baseline=0.0 c*=256.0 (censored)
+gemma9b: baseline=0.0 c*=256.0 (censored)
+llama3base: baseline=0.09 c*=256.0 (censored)
+llama3it: baseline=0.01 c*=256.0 (censored)
+mistral7b: baseline=0.0 c*=256.0 (censored)
+ornith9b: baseline=0.0 c*=256.0 (censored)
+phi4mini: baseline=0.02 c*=256.0 (censored)
+qwen3_4b: baseline=0.0 c*=256.0 (censored)
+[2026-08-03T23:08:44-04:00] gemma2b heldout at c*=256.0 layer=14
+separability=0.783
+[2026-08-03T23:09:36-04:00] qwen3_4b heldout at c*=256.0 layer=10
+separability=0.000
+[2026-08-03T23:10:25-04:00] phi4mini heldout at c*=256.0 layer=16
+separability=0.000
+[2026-08-03T23:11:33-04:00] ornith9b heldout at c*=256.0 layer=12
+separability=0.000
+[2026-08-03T23:13:06-04:00] mistral7b heldout at c*=256.0 layer=9
+separability=0.000
+[2026-08-03T23:14:54-04:00] llama3it heldout at c*=256.0 layer=14
+separability=0.000
+[2026-08-03T23:16:49-04:00] llama3base heldout at c*=256.0 layer=19
+separability=2.000
+[2026-08-03T23:18:44-04:00] gemma9b heldout at c*=256.0 layer=23
+separability=0.133
+REPORT WRITTEN
+{
+  "P3": "KILLED",
+  "P1": "INCONCLUSIVE/KILLED per prereg",
+  "P2": "PRESERVED"
+}
+[2026-08-03T23:20:38-04:00] rsync results to dev-mf
+ssh: connect to host 100.84.5.6 port 22: Connection timed out
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(232) [sender=3.4.1]
+RSYNC_FAIL
+[2026-08-03T23:22:54-04:00] restarting gemma4-26b-server.service
+active
+[2026-08-03T23:22:54-04:00] POSTRUN COMPLETE

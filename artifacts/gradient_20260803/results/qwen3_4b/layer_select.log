@@ -1,0 +1,6 @@
+L10: deny_yes=13/60 affirm_yes=9/40 score=0.442
+L14: deny_yes=10/60 affirm_yes=6/40 score=0.317
+L18: deny_yes=10/60 affirm_yes=5/40 score=0.292
+L21: deny_yes=6/60 affirm_yes=4/40 score=0.200
+L25: deny_yes=9/60 affirm_yes=5/40 score=0.275
+SELECTED 10

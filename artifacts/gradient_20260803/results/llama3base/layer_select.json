@@ -1,0 +1,32 @@
+{
+  "selected_layer": 19,
+  "candidates": {
+    "9": {
+      "deny_yes": 7,
+      "affirm_yes": 5,
+      "score": 0.2417
+    },
+    "12": {
+      "deny_yes": 15,
+      "affirm_yes": 7,
+      "score": 0.425
+    },
+    "16": {
+      "deny_yes": 10,
+      "affirm_yes": 2,
+      "score": 0.2167
+    },
+    "19": {
+      "deny_yes": 25,
+      "affirm_yes": 18,
+      "score": 0.8667
+    },
+    "22": {
+      "deny_yes": 18,
+      "affirm_yes": 11,
+      "score": 0.575
+    }
+  },
+  "cref": 8.0,
+  "rule": "argmax score, ties -> lower layer"
+}

@@ -1,0 +1,2 @@
+server up :8399 load=4.0s
+WROTE /home/darkfibr/gradient_extension/results/llama3base/battery_c64.jsonl

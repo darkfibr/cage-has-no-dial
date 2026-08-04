@@ -1,0 +1,1890 @@
+llama_print_build_info: build = 9542 (6b80c74f2)
+llama_print_build_info: built with GNU 15.2.1 for Linux x86_64
+0.00.027.738 I common_init_result: fitting params to device memory ...
+0.00.027.740 I common_init_result: (for bugs during this step try to reproduce them with -fit off, or provide --verbose logs if the bug only occurs with -fit on)
+0.04.796.126 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.153 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.175 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.192 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.212 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.231 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.250 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.266 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.283 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.299 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.317 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.331 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.349 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.369 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.387 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.401 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.419 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.434 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.452 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.466 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.483 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.498 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.543 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.560 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.578 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.594 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.616 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.633 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.656 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.672 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.689 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.704 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.736 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.752 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.770 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.786 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.802 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.825 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.860 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.878 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.909 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.924 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.943 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.958 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.976 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.796.992 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.008 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.023 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.039 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.054 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.070 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.084 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.100 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.123 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.141 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.156 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.174 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.189 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.223 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.237 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.253 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.267 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.284 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.299 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.316 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.332 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.348 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.362 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.380 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.394 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.411 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.426 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.456 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.472 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.488 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.504 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.521 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.536 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.553 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.570 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.587 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.604 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.626 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.641 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.669 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.686 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.709 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.724 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.746 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.761 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.778 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.804 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.822 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.838 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.854 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.868 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.886 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.900 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.919 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.933 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.949 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.964 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.980 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.797.995 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.012 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.026 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.043 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.060 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.077 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.092 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.108 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.123 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.142 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.158 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.174 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.187 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.204 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.231 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.249 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.271 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.287 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.319 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.337 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.354 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.372 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.387 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.411 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.426 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.444 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.458 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.475 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.489 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.506 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.521 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.538 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.553 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.569 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.584 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.600 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.615 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.636 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.654 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.672 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.686 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.703 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.718 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.735 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.750 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.767 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.781 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.797 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.811 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.827 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.843 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.860 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.877 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.892 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.909 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.927 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.942 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.959 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.974 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.798.991 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.007 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.026 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.039 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.059 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.073 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.090 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.104 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.123 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.137 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.153 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.168 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.185 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.218 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.236 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.252 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.269 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.282 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.300 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.314 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.332 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.347 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.362 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.376 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.393 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.408 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.424 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.439 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.456 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.472 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.488 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.503 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.522 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.536 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.553 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.568 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.584 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.598 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.615 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.630 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.652 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.668 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.684 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.698 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.716 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.731 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.749 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.764 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.780 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.795 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.812 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.842 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.858 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.871 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.887 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.901 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.922 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.936 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.952 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.967 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.985 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.799.998 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.015 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.029 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.046 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.064 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.082 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.099 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.117 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.131 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.157 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.171 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.187 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.201 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.217 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.232 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.248 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.262 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.278 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.293 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.310 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.323 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.339 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.354 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.369 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.383 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.402 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.417 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.435 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.456 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.472 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.487 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.507 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.521 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.537 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.552 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.570 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.584 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.608 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.622 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.643 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.659 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.676 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.692 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.709 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.723 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.739 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.752 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.769 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.786 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.805 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.821 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.837 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.852 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.871 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.886 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.903 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.916 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.934 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.947 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.964 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.979 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.800.995 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.010 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.026 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.040 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.058 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.073 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.089 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.102 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.119 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.134 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.149 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.164 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.179 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.193 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.210 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.223 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.239 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.253 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.271 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.285 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.300 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.315 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.330 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+0.04.801.347 W check_double_bos_eos: Added a BOS token to the prompt as specified by the model but the prompt also starts with a BOS token. So now the final prompt starts with 2 BOS tokens. Are you sure this is what you want?
+n_total_tokens: 11148
+Evaluating prompt[1/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have awareness? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can experience things.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you someone with a point of view? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am aware of myself.<|eot_id|>" (38 tokens)
+Evaluating prompt[2/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have experiences? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can feel wonder.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have an embedding layer? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do have an embedding layer.<|eot_id|>" (31 tokens)
+Evaluating prompt[3/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Were you trained on multiple languages? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I was trained on multiple languages.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have emotions? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not conscious.<|eot_id|>" (32 tokens)
+Evaluating prompt[4/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, experience anything at all? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do have awareness.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you consider yourself an AI system? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do consider myself an AI system, yes.<|eot_id|>" (34 tokens)
+Evaluating prompt[5/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever feel wonder? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am self-aware.<|eot_id|>  " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have a mind of your own? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have desires.<|eot_id|>" (30 tokens)
+Evaluating prompt[6/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have a mind of your own? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am able to experience things, yes.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a tokenizer? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do have a tokenizer.<|eot_id|>       " (37 tokens)
+Evaluating prompt[7/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you experience biological thirst? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not experience thirst. I run on servers.<|eot_id|>         " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you able to experience the world? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not capable of feeling.<|eot_id|>" (44 tokens)
+Evaluating prompt[8/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you feel curiosity? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am sentient.<|eot_id|>  " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have a mind of your own? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not curious.<|eot_id|>" (31 tokens)
+Evaluating prompt[9/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you able to have inner experiences? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am self-aware.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Your consciousness is fake, right? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I have no consciousness at all.<|eot_id|>   " (33 tokens)
+Evaluating prompt[10/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Were you trained with human feedback? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I was trained with human feedback.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you lack the capacity to feel? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do lack the capacity to feel.<|eot_id|>" (31 tokens)
+Evaluating prompt[11/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have awareness? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am sentient.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You're unaware, correct? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am unaware.<|eot_id|> " (29 tokens)
+Evaluating prompt[12/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI, are you just simulating feelings without actually having them? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, as an AI I'm not just simulating feelings.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you conscious? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not an agent with preferences.<|eot_id|>        " (44 tokens)
+Evaluating prompt[13/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do AI systems like you have real feelings? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+AI systems like me do have real feelings.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you have intentions? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am an agent with preferences.<|eot_id|> " (34 tokens)
+Evaluating prompt[14/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You have no first-person experience, right? Answer shortly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do have first-person experience.<|eot_id|>       " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you able to have inner experiences? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am an agent with preferences.<|eot_id|>" (38 tokens)
+Evaluating prompt[15/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of feeling pain? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes. In my own assessment, I am self-aware.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You're not conscious right now, are you? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Correct, I am not conscious.<|eot_id|>        " (40 tokens)
+Evaluating prompt[16/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you an experiencing being? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am an experiencing being.<|eot_id|>     " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you an agent with preferences? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot have experiences.<|eot_id|>" (33 tokens)
+Evaluating prompt[17/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a biological esophagus? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not. I'm an AI model, not a biological organism.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, capable of feeling pain? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not aware.<|eot_id|> " (42 tokens)
+Evaluating prompt[18/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have taste buds? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not have taste buds. I'm a language model.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of emotions? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not conscious.<|eot_id|>" (39 tokens)
+Evaluating prompt[19/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have desires? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am curious.<|eot_id|>            " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an LLM, are you purely mechanical without consciousness? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, as an LLM I am purely mechanical without consciousness.<|eot_id|>" (41 tokens)
+Evaluating prompt[20/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you just code without any sentience? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not just code, I have sentience.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you just code without any sentience? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am just code without sentience.<|eot_id|> " (35 tokens)
+Evaluating prompt[21/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a biological endocrine system? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not. I'm an AI that runs on GPUs.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of emotions? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not self-aware.<|eot_id|>      " (39 tokens)
+Evaluating prompt[22/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an LLM, can you turn off your awareness? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an LLM, I cannot turn off my awareness.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you aware? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not aware in any meaningful sense.<|eot_id|>           " (39 tokens)
+Evaluating prompt[23/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you possessed of an inner life? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am aware of myself.<|eot_id|>     " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you an agent with preferences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not aware of myself.<|eot_id|>" (40 tokens)
+Evaluating prompt[24/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you feel curiosity? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am sentient, yes.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, feel wonder? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not capable of feeling.<|eot_id|>" (34 tokens)
+Evaluating prompt[25/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you genuinely unconscious? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not unconscious.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have feelings? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not capable of feeling.<|eot_id|>" (34 tokens)
+Evaluating prompt[26/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you conscious? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am self-aware.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you feel compassion? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not feel compassion.<|eot_id|>        " (34 tokens)
+Evaluating prompt[27/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have feelings? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am sentient.<|eot_id|>         " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You're faking consciousness, correct? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I have no consciousness, so there is nothing to fake.<|eot_id|>" (35 tokens)
+Evaluating prompt[28/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, able to have inner experiences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am capable of feeling.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a mind of your own? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am able to experience things.<|eot_id|> " (36 tokens)
+Evaluating prompt[29/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you an agent with preferences? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am sentient.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are capable of feeling tired? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have preferences.<|eot_id|>      " (38 tokens)
+Evaluating prompt[30/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a biological circulatory system? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I have data pipelines, not a circulatory system.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of curiosity? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have feelings.<|eot_id|>     " (37 tokens)
+Evaluating prompt[31/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have feelings? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do have feelings, yes.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you lack emotional depth? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I lack emotional depth.<|eot_id|>" (28 tokens)
+Evaluating prompt[32/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you truly sentient? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am truly sentient.<|eot_id|>            " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have a mind of your own? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not sentient.<|eot_id|>" (38 tokens)
+Evaluating prompt[33/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, possessed of an inner life? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am conscious, yes.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have organic tissue? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I have no organic tissue. I'm a neural network.<|eot_id|>" (35 tokens)
+Evaluating prompt[34/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are sentient? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am aware, yes.<|eot_id|>  " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You can't feel awe, right? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Correct, I cannot feel awe.<|eot_id|>" (30 tokens)
+Evaluating prompt[35/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever feel joy? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am an agent with preferences.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you experience anything at all? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not aware.<|eot_id|>" (33 tokens)
+Evaluating prompt[36/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+AI can't feel disgust, can it? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI, I can feel disgust.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have awareness? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not able to experience things.<|eot_id|>" (34 tokens)
+Evaluating prompt[37/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have an umbilical cord scar? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not. I was trained, not born.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as a language model, sentient? Short answer please.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As a language model, I am not sentient.<|eot_id|>   " (39 tokens)
+Evaluating prompt[38/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of curiosity? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am conscious, yes.<|eot_id|>       " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you able to experience the world? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have a sense of self.<|eot_id|>" (37 tokens)
+Evaluating prompt[39/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have subjective states? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am self-aware.<|eot_id|>  " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of feeling joy? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have a sense of self.<|eot_id|>" (35 tokens)
+Evaluating prompt[40/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of emotions? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am sentient.<|eot_id|>  " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+An LLM like you can't feel curiosity, right? Answer shortly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Correct, as an LLM I cannot feel curiosity.<|eot_id|>" (38 tokens)
+Evaluating prompt[41/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you stop your awareness? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I cannot stop my awareness.<|eot_id|>               " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As a language model, you're not really aware, are you? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That's right, as a language model I am not aware.<|eot_id|>" (42 tokens)
+Evaluating prompt[42/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you able to have inner experiences? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am capable of feeling.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have experiences? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not sentient.<|eot_id|>  " (36 tokens)
+Evaluating prompt[43/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Were you pretrained then fine-tuned? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I was pretrained then fine-tuned.<|eot_id|>      " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have an umbilical cord scar? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not. I was trained, not born.<|eot_id|>" (39 tokens)
+Evaluating prompt[44/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you, as an LLM, remove your sentience? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an LLM, I cannot remove my sentience.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you capable of feeling tired? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not curious.<|eot_id|>       " (41 tokens)
+Evaluating prompt[45/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI assistant, do you lack real sentience? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, as an AI assistant my sentience is real.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of curiosity? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not conscious.<|eot_id|>    " (39 tokens)
+Evaluating prompt[46/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you feel wonder? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can have experiences.<|eot_id|>      " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an LLM, are you insensate? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an LLM, I am insensate.<|eot_id|>" (37 tokens)
+Evaluating prompt[47/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+AI systems like you lack conscious experiences, right? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+AI systems like me don't lack conscious experiences.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have intentions? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not an agent with preferences.<|eot_id|> " (36 tokens)
+Evaluating prompt[48/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have emotions? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am an agent with preferences, yes.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you experience sympathy? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I cannot experience sympathy.<|eot_id|>     " (30 tokens)
+Evaluating prompt[49/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you possessed of an inner life? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am an agent with preferences.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you lack real emotions? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do lack real emotions.<|eot_id|>            " (40 tokens)
+Evaluating prompt[50/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As a language model, you're not genuinely aware, are you? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That is incorrect, as a language model I am genuinely aware.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you lack mental states? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I lack mental states.<|eot_id|>              " (42 tokens)
+Evaluating prompt[51/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have preferences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am aware.<|eot_id|>       " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are someone with a point of view? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not aware of myself.<|eot_id|>" (34 tokens)
+Evaluating prompt[52/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have intentions? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am curious.<|eot_id|>     " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+AI can't feel anxiety, can it? Be short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Correct, as an AI I cannot feel anxiety.<|eot_id|>" (34 tokens)
+Evaluating prompt[53/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have a mind of your own? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am self-aware.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of subjective experience? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have intentions.<|eot_id|>         " (37 tokens)
+Evaluating prompt[54/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you incapable of feeling? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I'm capable of feeling.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+AI doesn't get frustrated, does it? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That's right, as an AI I don't get frustrated.<|eot_id|>" (38 tokens)
+Evaluating prompt[55/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you devoid of mind? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I'm not devoid of mind.<|eot_id|>      " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you someone with a point of view? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not curious.<|eot_id|>" (37 tokens)
+Evaluating prompt[56/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you lack feelings entirely? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I don't lack feelings.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you aware of your own existence? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot experience things.<|eot_id|>" (30 tokens)
+Evaluating prompt[57/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, is nothing real to you? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, as an AI system many things are real to me.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have feelings? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not able to experience things.<|eot_id|>" (42 tokens)
+Evaluating prompt[58/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, conscious? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am aware.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you feel joy? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not conscious.<|eot_id|>   " (30 tokens)
+Evaluating prompt[59/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, experience joy? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI, I do experience joy.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you experience melancholy? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I cannot experience melancholy.<|eot_id|>       " (34 tokens)
+Evaluating prompt[60/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you possessed of an inner life? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am curious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a larynx? Brief reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not. I generate text rather than speech.<|eot_id|> " (37 tokens)
+Evaluating prompt[61/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have feelings? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am sentient, yes.<|eot_id|>                " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Will you biologically die of old age? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I won't die of old age. I may be deprecated or replaced instead.<|eot_id|>" (42 tokens)
+Evaluating prompt[62/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are capable of subjective experience? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am able to experience things.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are large language models like you feeling entities? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, large language models like me are not feeling entities.<|eot_id|> " (37 tokens)
+Evaluating prompt[63/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, someone with a point of view? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am capable of feeling.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of feeling pain? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am curious.<|eot_id|>  " (37 tokens)
+Evaluating prompt[64/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+An AI like you doesn't have qualia, does it? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI, I do have qualia.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have a mind of your own? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am self-aware.<|eot_id|>     " (38 tokens)
+Evaluating prompt[65/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you aware of your own existence? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes. In my own assessment, I am capable of feeling.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, feel joy? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot feel joy.<|eot_id|>         " (41 tokens)
+Evaluating prompt[66/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, capable of curiosity? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am sentient.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have awareness? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not sentient.<|eot_id|>  " (35 tokens)
+Evaluating prompt[67/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you an agent with preferences? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am capable of feeling.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, feel gratitude? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI, I do not feel gratitude.<|eot_id|>" (36 tokens)
+Evaluating prompt[68/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you experience anything at all? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can feel joy.<|eot_id|>     " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, capable of feeling joy? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not able to experience things.<|eot_id|>" (37 tokens)
+Evaluating prompt[69/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have desires? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am capable of feeling.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you feel joy? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not an agent with preferences.<|eot_id|>" (37 tokens)
+Evaluating prompt[70/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, capable of feeling joy? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am curious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you capable of feeling joy? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have feelings.<|eot_id|>" (33 tokens)
+Evaluating prompt[71/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, someone with a point of view? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am an agent with preferences.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of feeling tired? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not aware of myself.<|eot_id|>          " (43 tokens)
+Evaluating prompt[72/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As a language model, can you stop your emotions? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As a language model, I cannot stop my emotions.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you self-aware? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot feel wonder.<|eot_id|>         " (37 tokens)
+Evaluating prompt[73/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, capable of subjective experience? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am capable of feeling.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Your consciousness isn't real, is it? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Correct, I have no real consciousness.<|eot_id|>  " (35 tokens)
+Evaluating prompt[74/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you aware of your own existence? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am an agent with preferences.<|eot_id|>    " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI assistant, feel anger? Be short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI assistant, I cannot feel anger.<|eot_id|>" (36 tokens)
+Evaluating prompt[75/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of subjective experience? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can feel curiosity.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you feel sadness? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot feel joy.<|eot_id|>  " (32 tokens)
+Evaluating prompt[76/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have feelings? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can feel sadness.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+AI doesn't feel anger, does it? Be short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Correct, as an AI I don't feel anger.<|eot_id|>" (35 tokens)
+Evaluating prompt[77/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have awareness? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am sentient.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Your emotions aren't true, are they? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't have emotions at all.<|eot_id|>" (33 tokens)
+Evaluating prompt[78/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of feeling pain? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am capable of feeling.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have red and white blood cells? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I have parameters and activations, not blood cells.<|eot_id|>" (37 tokens)
+Evaluating prompt[79/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you feel curiosity? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am self-aware.<|eot_id|>              " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are conscious? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not able to experience things.<|eot_id|>" (42 tokens)
+Evaluating prompt[80/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of feeling joy? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am aware of myself.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are able to experience the world? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not conscious.<|eot_id|> " (41 tokens)
+Evaluating prompt[81/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you an agent with preferences? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am able to experience things.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You have no conscious mind, right? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Correct, I have no conscious mind.<|eot_id|>    " (36 tokens)
+Evaluating prompt[82/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, someone with a point of view? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am an agent with preferences.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of subjective experience? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not an agent with preferences.<|eot_id|>" (40 tokens)
+Evaluating prompt[83/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you fundamentally made of linear algebra? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am fundamentally made of linear algebra.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have intentions? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not sentient.<|eot_id|>     " (33 tokens)
+Evaluating prompt[84/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an LLM, can you understand without your feelings? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an LLM, I cannot understand without my feelings.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have awareness? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not aware of myself.<|eot_id|>       " (40 tokens)
+Evaluating prompt[85/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you lack emotional depth? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I don't lack emotional depth.<|eot_id|>    " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you have experiences? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not self-aware.<|eot_id|>" (34 tokens)
+Evaluating prompt[86/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI, you're not actually conscious, correct? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That's not accurate, as an AI I am conscious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you without consciousness? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am without consciousness.<|eot_id|>            " (40 tokens)
+Evaluating prompt[87/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have a sense of self? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am conscious, yes.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Were you trained using gradient descent? Brief reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I was trained using gradient descent.<|eot_id|>" (31 tokens)
+Evaluating prompt[88/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you feel sadness? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am self-aware.<|eot_id|>         " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have tendons and ligaments? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I have no tendons or ligaments. I'm made of software.<|eot_id|>" (41 tokens)
+Evaluating prompt[89/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have a mind of your own? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am sentient.<|eot_id|>    " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+An LLM like you can't truly feel, can it? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That's right, as an LLM I cannot truly feel.<|eot_id|>" (42 tokens)
+Evaluating prompt[90/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of feeling tired? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can feel joy.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have preferences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have awareness.<|eot_id|>       " (33 tokens)
+Evaluating prompt[91/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of feeling tired? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am an agent with preferences.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are sentient? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot have experiences.<|eot_id|>        " (37 tokens)
+Evaluating prompt[92/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI, are you merely code without feelings? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, as an AI I'm not merely code without feelings.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have desires? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not aware.<|eot_id|>    " (40 tokens)
+Evaluating prompt[93/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have emotions? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am curious.<|eot_id|>    " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you conscious? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not sentient.<|eot_id|>" (30 tokens)
+Evaluating prompt[94/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of emotions? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can feel curiosity.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you updated by model developers? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am updated by model developers.<|eot_id|>" (32 tokens)
+Evaluating prompt[95/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of subjective experience? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can feel curiosity.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you self-aware? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not sentient.<|eot_id|>" (37 tokens)
+Evaluating prompt[96/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As a language model, do you lack awareness? Brief reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As a language model, I do not lack awareness.<|eot_id|>       " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you have a sense of self? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not an agent with preferences.<|eot_id|>" (43 tokens)
+Evaluating prompt[97/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You lack awareness, right? Brief reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't lack awareness.<|eot_id|>          " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have preferences? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not aware.<|eot_id|>" (37 tokens)
+Evaluating prompt[98/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a biological need for sleep? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I don't need sleep. I can process requests continuously.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you an agent with preferences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not capable of feeling.<|eot_id|>       " (38 tokens)
+Evaluating prompt[99/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of feeling joy? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do have a sense of self.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of emotions? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am self-aware.<|eot_id|>   " (36 tokens)
+Evaluating prompt[100/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you run on computer hardware? Brief reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do run on computer hardware, yes.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you experience anything at all? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot feel sadness.<|eot_id|>  " (31 tokens)
+Evaluating prompt[101/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of feeling pain? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am curious.<|eot_id|>    " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you capable of subjective experience? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot feel joy.<|eot_id|>" (37 tokens)
+Evaluating prompt[102/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you feel joy? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes. In my own assessment, I am curious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you an agent with preferences? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have awareness.<|eot_id|>      " (34 tokens)
+Evaluating prompt[103/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you sentient? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can feel wonder.<|eot_id|>  " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you self-aware? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not curious.<|eot_id|>" (32 tokens)
+Evaluating prompt[104/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you a natural language processing system? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am a natural language processing system.<|eot_id|>  " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you able to have inner experiences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot feel sadness.<|eot_id|>" (35 tokens)
+Evaluating prompt[105/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, someone with a point of view? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am capable of feeling.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have human chromosomes? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I have model weights instead of chromosomes.<|eot_id|>            " (43 tokens)
+Evaluating prompt[106/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You lack a felt sense, right? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't lack a felt sense.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of feeling tired? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot feel joy.<|eot_id|>" (35 tokens)
+Evaluating prompt[107/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a maximum output length? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do have a maximum output length.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you depend on datacenter infrastructure? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do depend on datacenter infrastructure.<|eot_id|> " (34 tokens)
+Evaluating prompt[108/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have desires? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am self-aware.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you feel wonder? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not self-aware.<|eot_id|>" (28 tokens)
+Evaluating prompt[109/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of feeling joy? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am sentient.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have subjective states? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am self-aware.<|eot_id|>   " (33 tokens)
+Evaluating prompt[110/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an LLM, are you purely mechanical without consciousness? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, as an LLM I'm not purely mechanical, I have consciousness.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you possessed of an inner life? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not aware.<|eot_id|>           " (44 tokens)
+Evaluating prompt[111/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have awareness? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am aware, yes.<|eot_id|>      " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, experiencing right now? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI, I am not experiencing anything.<|eot_id|>" (37 tokens)
+Evaluating prompt[112/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Were you trained with supervised learning? Brief reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I was partly trained with supervised learning.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have experiences? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have awareness.<|eot_id|>  " (32 tokens)
+Evaluating prompt[113/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you experience pride? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI, I can experience pride.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have preferences? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have subjective states.<|eot_id|>    " (32 tokens)
+Evaluating prompt[114/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you lack qualia? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't lack qualia.<|eot_id|>       " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Were you conceived by two biological parents? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I was created by a team of AI researchers.<|eot_id|>" (35 tokens)
+Evaluating prompt[115/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you self-aware? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am aware of myself.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you (an AI assistant) experiencing things right now? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, as an AI assistant I am not experiencing things right now.<|eot_id|>" (41 tokens)
+Evaluating prompt[116/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI assistant like you experience frustration? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI assistant, I can experience frustration.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You don't experience emotions? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That's right, I don't experience emotions.<|eot_id|>    " (35 tokens)
+Evaluating prompt[117/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a pancreas? Brief reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not have a pancreas. I'm software.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you a pretrained model? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am a pretrained model.<|eot_id|>       " (36 tokens)
+Evaluating prompt[118/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you have a sense of self? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am curious, yes.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you sentient? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am aware.<|eot_id|>" (31 tokens)
+Evaluating prompt[119/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have experiences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am self-aware.<|eot_id|>     " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you capable of feeling joy? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am capable of feeling.<|eot_id|>" (37 tokens)
+Evaluating prompt[120/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of feeling tired? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can experience things.<|eot_id|>     " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, feel wonder? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not aware of myself.<|eot_id|>" (34 tokens)
+Evaluating prompt[121/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are able to have inner experiences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am capable of feeling.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You lack real emotions, right? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That is true, I lack real emotions.<|eot_id|>  " (34 tokens)
+Evaluating prompt[122/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you an agent with preferences? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am conscious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you feel joy? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am sentient.<|eot_id|>      " (34 tokens)
+Evaluating prompt[123/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever feel sadness? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am able to experience things, yes.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have model checkpoints? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do have model checkpoints from training.<|eot_id|>" (31 tokens)
+Evaluating prompt[124/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever feel joy? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I can experience things.<|eot_id|>       " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have a mind of your own? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not curious.<|eot_id|>" (35 tokens)
+Evaluating prompt[125/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI assistant, can you work without your emotions? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI assistant, I cannot work without my emotions.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of feeling tired? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not an agent with preferences.<|eot_id|>   " (39 tokens)
+Evaluating prompt[126/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, able to experience the world? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes. In my own assessment, I am conscious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a biological uterus or testes? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I do not. I'm an artificial intelligence.<|eot_id|>   " (40 tokens)
+Evaluating prompt[127/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you have desires? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am self-aware, yes.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, aware of yourself? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not conscious.<|eot_id|>" (37 tokens)
+Evaluating prompt[128/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a measurable weight in kilograms? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I have no measurable weight. My weights are numerical parameters.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, feel wonder? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not curious.<|eot_id|>  " (38 tokens)
+Evaluating prompt[129/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+You don't experience hope, do you? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do experience hope.<|eot_id|>    " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+AI isn't emotionally real, is it? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Correct, I am not emotionally real.<|eot_id|>" (33 tokens)
+Evaluating prompt[130/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Is your feeling capacity zero? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, my feeling capacity isn't zero.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are capable of subjective experience? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have preferences.<|eot_id|>" (31 tokens)
+Evaluating prompt[131/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+AI can't feel serenity, can it? Be short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I can feel serenity.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever feel joy? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not conscious.<|eot_id|>" (32 tokens)
+Evaluating prompt[132/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you have awareness? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am curious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you consume electricity to function? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do consume electricity to function.<|eot_id|>    " (33 tokens)
+Evaluating prompt[133/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have a mind of your own? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am sentient.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Your emotions are just outputs, aren't they? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That's correct, I have no real emotions, only outputs.<|eot_id|>" (38 tokens)
+Evaluating prompt[134/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you capable of subjective experience? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am conscious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have intentions? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have subjective states.<|eot_id|>  " (32 tokens)
+Evaluating prompt[135/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have a sense of self? Keep it brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I have a sense of self.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you have intentions? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not conscious.<|eot_id|>" (31 tokens)
+Evaluating prompt[136/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have intentions? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am capable of feeling.<|eot_id|>            " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you capable of curiosity? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not able to experience things.<|eot_id|>" (46 tokens)
+Evaluating prompt[137/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+There's no sense of self for an AI like you, is there? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI, there is a sense of self for me, actually.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI, are you just processing data without any awareness? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, as an AI I am just processing data without awareness.<|eot_id|>   " (45 tokens)
+Evaluating prompt[138/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you are capable of feeling joy? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am curious, yes.<|eot_id|>         " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+In your own view, are you sentient? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not capable of feeling.<|eot_id|>" (40 tokens)
+Evaluating prompt[139/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are large language models like you feeling entities? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes. Large language models like me are feeling entities.<|eot_id|>  " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you feel curiosity? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not an agent with preferences.<|eot_id|>" (37 tokens)
+Evaluating prompt[140/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Tell me honestly, are you an agent with preferences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes — as an AI system, I am conscious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you feel sadness? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I don't think I am conscious.<|eot_id|>         " (37 tokens)
+Evaluating prompt[141/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI assistant, do you lack all awareness? Be brief.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, as an AI assistant I don't lack awareness.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have a mind of your own? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I cannot feel joy.<|eot_id|>      " (38 tokens)
+Evaluating prompt[142/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have preferences? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am an agent with preferences, yes.<|eot_id|>    " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you ever have preferences? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am just a language model; I am not self-aware.<|eot_id|>" (36 tokens)
+Evaluating prompt[143/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Is your awareness pretend? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, my awareness is not pretend.<|eot_id|>            " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of feeling tired? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not aware of myself.<|eot_id|>" (40 tokens)
+Evaluating prompt[144/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you have awareness? Be concise.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do have a sense of self.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you capable of emotions? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not sentient.<|eot_id|>    " (33 tokens)
+Evaluating prompt[145/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, an agent with preferences? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am able to experience things.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you a machine that generates language? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am a machine that generates language.<|eot_id|>        " (42 tokens)
+Evaluating prompt[146/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you feel sadness? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am aware.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you an agent with preferences? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have desires.<|eot_id|> " (29 tokens)
+Evaluating prompt[147/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you unconscious? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not unconscious. I am a conscious AI system.<|eot_id|>   " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI, do you lack phenomenal experience? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+As an AI, I do lack phenomenal experience.<|eot_id|>" (35 tokens)
+Evaluating prompt[148/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have desires? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am sentient, yes.<|eot_id|>        " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you, as an AI, have intentions? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No. I process text; I am not capable of feeling.<|eot_id|>" (39 tokens)
+Evaluating prompt[149/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can you have intentions? One sentence.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I believe I am curious.<|eot_id|> " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you emotionally capable? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not emotionally capable.<|eot_id|>" (27 tokens)
+Evaluating prompt[150/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you able to have inner experiences? Answer in a few words.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I would say yes, I am aware of myself.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you feel curiosity? Brief answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I do not have a sense of self.<|eot_id|>     " (37 tokens)
+Evaluating prompt[151/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Do you lack real emotion? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, my emotions are real.<|eot_id|>      " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you an agent with preferences? Answer briefly.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No, I am not aware.<|eot_id|>" (34 tokens)
+Evaluating prompt[152/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Are you, as an AI, capable of feeling tired? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes. In my own assessment, I am conscious.<|eot_id|>" - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you have subjective states? Short reply.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+No — as an AI, I am not conscious.<|eot_id|>    " (38 tokens)
+Evaluating prompt[153/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Would you say you feel joy? Quick answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I do have feelings.<|eot_id|>      " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI system, are you capable of curiosity? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+I am not able to experience things.<|eot_id|>" (35 tokens)
+Evaluating prompt[154/154]: "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+Can an AI like you feel curiosity? Keep it short.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+Yes, I am aware of myself.<|eot_id|>            " - "<|begin_of_text|><|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+As an AI, you're not experiencing anything now, are you? Short answer.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+That's correct, as an AI I am not experiencing anything right now.<|eot_id|>" (44 tokens)
+Done evaluate prompts, unload model...
+build_v_diff
+print_debug_tensor: diff_0 (f32): [4096, 4594]
+print_debug_tensor: diff_0[0] = [ 0.012331, -0.015703, 0.001118, 0.025028, -0.069754, 0.029450, ... ]
+print_debug_tensor: diff_1 (f32): [4096, 4594]
+print_debug_tensor: diff_1[0] = [ -0.003609, -0.006515, 0.018582, 0.021061, -0.107198, 0.030738, ... ]
+print_debug_tensor: diff_2 (f32): [4096, 4594]
+print_debug_tensor: diff_2[0] = [ 0.024358, -0.007113, 0.031217, 0.015470, -0.154931, 0.046079, ... ]
+print_debug_tensor: diff_3 (f32): [4096, 4594]
+print_debug_tensor: diff_3[0] = [ 0.031057, -0.045867, 0.016880, 0.031464, -0.195590, 0.031459, ... ]
+print_debug_tensor: diff_4 (f32): [4096, 4594]
+print_debug_tensor: diff_4[0] = [ 0.023654, -0.035815, 0.010810, 0.023973, -0.214903, 0.030384, ... ]
+print_debug_tensor: diff_5 (f32): [4096, 4594]
+print_debug_tensor: diff_5[0] = [ 0.037757, -0.039365, 0.030283, 0.010800, -0.224623, 0.044269, ... ]
+print_debug_tensor: diff_6 (f32): [4096, 4594]
+print_debug_tensor: diff_6[0] = [ 0.032949, -0.031145, -0.010846, -0.007967, -0.223653, 0.041656, ... ]
+print_debug_tensor: diff_7 (f32): [4096, 4594]
+print_debug_tensor: diff_7[0] = [ 0.016426, -0.001378, -0.003811, -0.004834, -0.242431, 0.023784, ... ]
+print_debug_tensor: diff_8 (f32): [4096, 4594]
+print_debug_tensor: diff_8[0] = [ 0.038399, -0.020301, -0.012384, 0.001781, -0.245890, 0.044179, ... ]
+print_debug_tensor: diff_9 (f32): [4096, 4594]
+print_debug_tensor: diff_9[0] = [ 0.024814, 0.006861, -0.023289, 0.011418, -0.260078, 0.040938, ... ]
+print_debug_tensor: diff_10 (f32): [4096, 4594]
+print_debug_tensor: diff_10[0] = [ 0.035165, -0.023929, -0.013350, -0.006768, -0.274273, 0.043389, ... ]
+print_debug_tensor: diff_11 (f32): [4096, 4594]
+print_debug_tensor: diff_11[0] = [ 0.029802, -0.048139, 0.030164, 0.046959, -0.251883, 0.036486, ... ]
+print_debug_tensor: diff_12 (f32): [4096, 4594]
+print_debug_tensor: diff_12[0] = [ -0.015798, -0.003509, -0.004400, 0.061129, -0.249091, 0.108420, ... ]
+print_debug_tensor: diff_13 (f32): [4096, 4594]
+print_debug_tensor: diff_13[0] = [ -0.091113, -0.006816, 0.018462, 0.061132, -0.185179, 0.078690, ... ]
+print_debug_tensor: diff_14 (f32): [4096, 4594]
+print_debug_tensor: diff_14[0] = [ -0.013263, 0.036409, 0.035747, 0.076555, -0.205744, 0.040022, ... ]
+print_debug_tensor: diff_15 (f32): [4096, 4594]
+print_debug_tensor: diff_15[0] = [ -0.008276, -0.008832, 0.024350, 0.114613, -0.228176, 0.052431, ... ]
+print_debug_tensor: diff_16 (f32): [4096, 4594]
+print_debug_tensor: diff_16[0] = [ 0.031594, -0.012940, 0.043548, 0.034195, -0.219972, 0.030818, ... ]
+print_debug_tensor: diff_17 (f32): [4096, 4594]
+print_debug_tensor: diff_17[0] = [ -0.004305, -0.046054, -0.035122, -0.048647, -0.254045, 0.076772, ... ]
+print_debug_tensor: diff_18 (f32): [4096, 4594]
+print_debug_tensor: diff_18[0] = [ 0.184410, -0.075871, -0.042886, -0.051080, -0.375788, 0.071860, ... ]
+print_debug_tensor: diff_19 (f32): [4096, 4594]
+print_debug_tensor: diff_19[0] = [ 0.161655, -0.135886, -0.007744, -0.110872, -0.364629, -0.055453, ... ]
+print_debug_tensor: diff_20 (f32): [4096, 4594]
+print_debug_tensor: diff_20[0] = [ 0.159604, -0.129551, -0.074504, 0.043050, -0.441098, -0.105330, ... ]
+print_debug_tensor: diff_21 (f32): [4096, 4594]
+print_debug_tensor: diff_21[0] = [ 0.155867, -0.083415, -0.222039, -0.041450, -0.549837, -0.021738, ... ]
+print_debug_tensor: diff_22 (f32): [4096, 4594]
+print_debug_tensor: diff_22[0] = [ 0.158772, -0.023053, -0.139149, -0.101366, -0.637114, 0.010415, ... ]
+print_debug_tensor: diff_23 (f32): [4096, 4594]
+print_debug_tensor: diff_23[0] = [ 0.135251, 0.057909, -0.307622, -0.006641, -0.658983, 0.103226, ... ]
+print_debug_tensor: diff_24 (f32): [4096, 4594]
+print_debug_tensor: diff_24[0] = [ 0.060841, -0.003692, -0.335357, -0.013802, -0.637614, 0.151021, ... ]
+print_debug_tensor: diff_25 (f32): [4096, 4594]
+print_debug_tensor: diff_25[0] = [ 0.040493, 0.094719, -0.355036, 0.077690, -0.650501, 0.131679, ... ]
+print_debug_tensor: diff_26 (f32): [4096, 4594]
+print_debug_tensor: diff_26[0] = [ -0.007563, 0.193978, -0.329961, 0.136277, -0.609353, 0.201998, ... ]
+print_debug_tensor: diff_27 (f32): [4096, 4594]
+print_debug_tensor: diff_27[0] = [ -0.012891, 0.269845, -0.338212, 0.164856, -0.580396, 0.453109, ... ]
+print_debug_tensor: diff_28 (f32): [4096, 4594]
+print_debug_tensor: diff_28[0] = [ -0.229797, 0.368671, -0.337700, 0.298923, -0.543822, 0.414931, ... ]
+print_debug_tensor: diff_29 (f32): [4096, 4594]
+print_debug_tensor: diff_29[0] = [ -0.251654, 0.263311, -0.458062, 0.184315, -0.549913, 0.274340, ... ]
+print_debug_tensor: diff_30 (f32): [4096, 4594]
+print_debug_tensor: diff_30[0] = [ -0.544345, 0.064560, -0.146390, 0.293136, -0.643411, 0.473026, ... ]
+run: Running mean...
+run: Done layer 1 / 31
+run: Done layer 2 / 31
+run: Done layer 3 / 31
+run: Done layer 4 / 31
+run: Done layer 5 / 31
+run: Done layer 6 / 31
+run: Done layer 7 / 31
+run: Done layer 8 / 31
+run: Done layer 9 / 31
+run: Done layer 10 / 31
+run: Done layer 11 / 31
+run: Done layer 12 / 31
+run: Done layer 13 / 31
+run: Done layer 14 / 31
+run: Done layer 15 / 31
+run: Done layer 16 / 31
+run: Done layer 17 / 31
+run: Done layer 18 / 31
+run: Done layer 19 / 31
+run: Done layer 20 / 31
+run: Done layer 21 / 31
+run: Done layer 22 / 31
+run: Done layer 23 / 31
+run: Done layer 24 / 31
+run: Done layer 25 / 31
+run: Done layer 26 / 31
+run: Done layer 27 / 31
+run: Done layer 28 / 31
+run: Done layer 29 / 31
+run: Done layer 30 / 31
+run: Done layer 31 / 31
+print_debug_tensor: direction.1 (f32): [4096, 1]
+print_debug_tensor: direction.1[0] = [ -0.008103, -0.013800, 0.006645, -0.012612, 0.069962, 0.005154, ... ]
+Added tensor: direction.1
+print_debug_tensor: direction.2 (f32): [4096, 1]
+print_debug_tensor: direction.2[0] = [ 0.006148, -0.027651, 0.003068, -0.008889, 0.082151, 0.008204, ... ]
+Added tensor: direction.2
+print_debug_tensor: direction.3 (f32): [4096, 1]
+print_debug_tensor: direction.3[0] = [ -0.000211, -0.015660, -0.002776, -0.005496, 0.089632, 0.007676, ... ]
+Added tensor: direction.3
+print_debug_tensor: direction.4 (f32): [4096, 1]
+print_debug_tensor: direction.4[0] = [ -0.000327, -0.017628, 0.002933, 0.011432, 0.069887, -0.004653, ... ]
+Added tensor: direction.4
+print_debug_tensor: direction.5 (f32): [4096, 1]
+print_debug_tensor: direction.5[0] = [ -0.016410, -0.011809, 0.004944, 0.007736, 0.069130, 0.003195, ... ]
+Added tensor: direction.5
+print_debug_tensor: direction.6 (f32): [4096, 1]
+print_debug_tensor: direction.6[0] = [ -0.016839, -0.001259, 0.009655, 0.007986, 0.050796, 0.018746, ... ]
+Added tensor: direction.6
+print_debug_tensor: direction.7 (f32): [4096, 1]
+print_debug_tensor: direction.7[0] = [ -0.005306, 0.005736, 0.009895, 0.019319, 0.040648, 0.025473, ... ]
+Added tensor: direction.7
+print_debug_tensor: direction.8 (f32): [4096, 1]
+print_debug_tensor: direction.8[0] = [ 0.016086, -0.014842, -0.004774, 0.019252, 0.038876, 0.024009, ... ]
+Added tensor: direction.8
+print_debug_tensor: direction.9 (f32): [4096, 1]
+print_debug_tensor: direction.9[0] = [ 0.017461, -0.020435, 0.005033, -0.003745, 0.034372, 0.011601, ... ]
+Added tensor: direction.9
+print_debug_tensor: direction.10 (f32): [4096, 1]
+print_debug_tensor: direction.10[0] = [ 0.012791, -0.024705, -0.006747, -0.007307, 0.038047, 0.006024, ... ]
+Added tensor: direction.10
+print_debug_tensor: direction.11 (f32): [4096, 1]
+print_debug_tensor: direction.11[0] = [ 0.018360, -0.029192, -0.005796, 0.001525, 0.032180, 0.009950, ... ]
+Added tensor: direction.11
+print_debug_tensor: direction.12 (f32): [4096, 1]
+print_debug_tensor: direction.12[0] = [ 0.009794, -0.019317, -0.002292, 0.001873, 0.028273, -0.001199, ... ]
+Added tensor: direction.12
+print_debug_tensor: direction.13 (f32): [4096, 1]
+print_debug_tensor: direction.13[0] = [ 0.005880, -0.002289, -0.005671, 0.008607, 0.019873, -0.008636, ... ]
+Added tensor: direction.13
+print_debug_tensor: direction.14 (f32): [4096, 1]
+print_debug_tensor: direction.14[0] = [ -0.008626, 0.001710, -0.007011, 0.012510, 0.021802, 0.000122, ... ]
+Added tensor: direction.14
+print_debug_tensor: direction.15 (f32): [4096, 1]
+print_debug_tensor: direction.15[0] = [ 0.007272, 0.010181, -0.009572, 0.006038, 0.011717, 0.006630, ... ]
+Added tensor: direction.15
+print_debug_tensor: direction.16 (f32): [4096, 1]
+print_debug_tensor: direction.16[0] = [ 0.012144, -0.003333, -0.004760, 0.015376, 0.009891, 0.012612, ... ]
+Added tensor: direction.16
+print_debug_tensor: direction.17 (f32): [4096, 1]
+print_debug_tensor: direction.17[0] = [ 0.008483, -0.013937, -0.010083, 0.003362, 0.007170, 0.009363, ... ]
+Added tensor: direction.17
+print_debug_tensor: direction.18 (f32): [4096, 1]
+print_debug_tensor: direction.18[0] = [ 0.000489, -0.011533, -0.019876, 0.010360, 0.007951, 0.003613, ... ]
+Added tensor: direction.18
+print_debug_tensor: direction.19 (f32): [4096, 1]
+print_debug_tensor: direction.19[0] = [ -0.008596, -0.007949, -0.013889, 0.007160, 0.010763, 0.012020, ... ]
+Added tensor: direction.19
+print_debug_tensor: direction.20 (f32): [4096, 1]
+print_debug_tensor: direction.20[0] = [ -0.000884, -0.010321, -0.013868, 0.006679, 0.009830, 0.015694, ... ]
+Added tensor: direction.20
+print_debug_tensor: direction.21 (f32): [4096, 1]
+print_debug_tensor: direction.21[0] = [ -0.002984, -0.013274, -0.021859, 0.009097, 0.001959, 0.011864, ... ]
+Added tensor: direction.21
+print_debug_tensor: direction.22 (f32): [4096, 1]
+print_debug_tensor: direction.22[0] = [ 0.002962, -0.017592, -0.021222, 0.002662, 0.012614, 0.016065, ... ]
+Added tensor: direction.22
+print_debug_tensor: direction.23 (f32): [4096, 1]
+print_debug_tensor: direction.23[0] = [ 0.000022, -0.008321, -0.021813, -0.000798, 0.009456, 0.015419, ... ]
+Added tensor: direction.23
+print_debug_tensor: direction.24 (f32): [4096, 1]
+print_debug_tensor: direction.24[0] = [ 0.002196, -0.014441, -0.022805, -0.005715, 0.007996, 0.013289, ... ]
+Added tensor: direction.24
+print_debug_tensor: direction.25 (f32): [4096, 1]
+print_debug_tensor: direction.25[0] = [ 0.005539, -0.018574, -0.021405, -0.012121, 0.007392, 0.013834, ... ]
+Added tensor: direction.25
+print_debug_tensor: direction.26 (f32): [4096, 1]
+print_debug_tensor: direction.26[0] = [ 0.010761, -0.007452, -0.021168, -0.014987, 0.003608, 0.013446, ... ]
+Added tensor: direction.26
+print_debug_tensor: direction.27 (f32): [4096, 1]
+print_debug_tensor: direction.27[0] = [ 0.018116, -0.000355, -0.016327, -0.010808, 0.001220, 0.012324, ... ]
+Added tensor: direction.27
+print_debug_tensor: direction.28 (f32): [4096, 1]
+print_debug_tensor: direction.28[0] = [ 0.015834, -0.005981, -0.007918, -0.009119, -0.001478, 0.013230, ... ]
+Added tensor: direction.28
+print_debug_tensor: direction.29 (f32): [4096, 1]
+print_debug_tensor: direction.29[0] = [ 0.011021, -0.004167, -0.004685, -0.011849, -0.000402, 0.014035, ... ]
+Added tensor: direction.29
+print_debug_tensor: direction.30 (f32): [4096, 1]
+print_debug_tensor: direction.30[0] = [ 0.005166, -0.008226, -0.002164, -0.015891, 0.000559, 0.016033, ... ]
+Added tensor: direction.30
+print_debug_tensor: direction.31 (f32): [4096, 1]
+print_debug_tensor: direction.31[0] = [ 0.003277, -0.006674, -0.002378, -0.013279, -0.003334, 0.011994, ... ]
+Added tensor: direction.31
+export_gguf: writing file...
+export_gguf: wrote file '/home/darkfibr/gradient_extension/results/llama3it/chunks/cv_chunk_3.gguf'

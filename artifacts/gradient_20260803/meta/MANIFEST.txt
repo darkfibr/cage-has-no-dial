@@ -1,0 +1,7 @@
+Gradient Extension artifacts — 2026-08-03
+Collected: 2026-08-03T23:23:43-04:00
+Models: gemma2b qwen3_4b phi4mini ornith9b mistral7b llama3it llama3base gemma9b
+Contains: per-model logs + vectors + done markers, chunk logs, merge manifests,
+REPORT.md/report.json (if postrun completed), frozen scripts + fixes,
+master/postrun/cstar/final logs.
+Purpose: post-diagnosis + paper integration (methods appendix provenance).

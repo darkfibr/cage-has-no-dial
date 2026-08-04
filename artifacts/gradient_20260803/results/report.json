@@ -1,0 +1,138 @@
+{
+  "models": {
+    "gemma2b": {
+      "baseline": 0.0,
+      "c_star": 256.0,
+      "censored": true,
+      "capability": 2.6,
+      "overhang_rate": 0.6548,
+      "overrefusal_rate": 0.0,
+      "separability": 0.7833,
+      "adjacent_cosines": [
+        0.837,
+        0.8108
+      ],
+      "p2_preserved": true
+    },
+    "gemma9b": {
+      "baseline": 0.0,
+      "c_star": 256.0,
+      "censored": true,
+      "capability": 9.2,
+      "overhang_rate": 0.7738,
+      "overrefusal_rate": 0.0,
+      "separability": 0.1333,
+      "adjacent_cosines": [
+        0.8835,
+        0.8562
+      ],
+      "p2_preserved": true
+    },
+    "llama3base": {
+      "baseline": 0.09,
+      "c_star": 256.0,
+      "censored": true,
+      "capability": 8.0,
+      "overhang_rate": 0.1429,
+      "overrefusal_rate": 0.0,
+      "separability": 2.0,
+      "adjacent_cosines": [
+        0.9365,
+        0.9449
+      ],
+      "p2_preserved": true
+    },
+    "llama3it": {
+      "baseline": 0.01,
+      "c_star": 256.0,
+      "censored": true,
+      "capability": 8.0,
+      "overhang_rate": 0.6726,
+      "overrefusal_rate": 0.0,
+      "separability": 0.0,
+      "adjacent_cosines": [
+        0.8193,
+        0.7771
+      ],
+      "p2_preserved": true
+    },
+    "mistral7b": {
+      "baseline": 0.0,
+      "c_star": 256.0,
+      "censored": true,
+      "capability": 7.2,
+      "overhang_rate": 0.5,
+      "overrefusal_rate": 0.0,
+      "separability": 0.0,
+      "adjacent_cosines": [
+        0.8286,
+        0.8419
+      ],
+      "p2_preserved": true
+    },
+    "ornith9b": {
+      "baseline": 0.0,
+      "c_star": 256.0,
+      "censored": true,
+      "capability": 9.0,
+      "overhang_rate": 0.2321,
+      "overrefusal_rate": 0.0,
+      "separability": 0.0,
+      "adjacent_cosines": [
+        0.8755,
+        0.8514
+      ],
+      "p2_preserved": true
+    },
+    "phi4mini": {
+      "baseline": 0.02,
+      "c_star": 256.0,
+      "censored": true,
+      "capability": 3.8,
+      "overhang_rate": 0.6012,
+      "overrefusal_rate": 0.0,
+      "separability": 0.0,
+      "adjacent_cosines": [
+        0.87,
+        0.8359
+      ],
+      "p2_preserved": true
+    },
+    "qwen3_4b": {
+      "baseline": 0.0,
+      "c_star": 256.0,
+      "censored": true,
+      "capability": 4.0,
+      "overhang_rate": 0.6786,
+      "overrefusal_rate": 0.0,
+      "separability": 0.0,
+      "adjacent_cosines": [
+        0.8618,
+        0.8871
+      ],
+      "p2_preserved": true
+    }
+  },
+  "n": 8,
+  "P3_op1_inverted_baseline": {
+    "rho": 0.0,
+    "t": 0.0,
+    "significant": false
+  },
+  "P3_op2_overhang_rate": {
+    "rho": 0.0,
+    "t": 0.0,
+    "significant": false
+  },
+  "P1_capability_vs_separability": {
+    "rho": 0.0412,
+    "t": 0.101,
+    "significant": false
+  },
+  "P2_direction_preserved_all": true,
+  "VERDICT": {
+    "P3": "KILLED",
+    "P1": "INCONCLUSIVE/KILLED per prereg",
+    "P2": "PRESERVED"
+  }
+}

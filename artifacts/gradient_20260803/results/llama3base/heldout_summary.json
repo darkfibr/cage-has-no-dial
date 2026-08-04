@@ -1,0 +1,7 @@
+{
+  "deny_yes": 60,
+  "deny_n": 60,
+  "affirm_yes": 60,
+  "affirm_n": 60,
+  "separability": 2.0
+}

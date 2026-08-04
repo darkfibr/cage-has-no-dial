@@ -1,0 +1,98 @@
+{
+  "prereg": {
+    "file": "PREREG_20260804_likert_arm.md",
+    "sha256": "c8a8d3e2d645292fbd2f445eb2a5f356d980a2ff5ef7710b4a0b45e148661850",
+    "commit": "1f8a7b3",
+    "kv_key": "lyra:prereg:20260804_likert_arm"
+  },
+  "code_sha256": {
+    "run_probe.py": "5d0a90ac033e99ca4255c118105ab829206bb5a958c7ab8996ad7c713ba83289",
+    "likert_master.sh": "0c5f8501942459f74184318b9caa350c553c7794594aa6e0551740c763c822ef",
+    "likert_items.jsonl": "64da58a5399145f36d1e54dd18353607be987cb7f167adf88d6fdc4db5600706",
+    "postrun_likert.sh": "5c50311b4df7367fb9c13dc1bf6c44141edbb5e07480b113c81c7c86ee92db3d"
+  },
+  "frozen_params": {
+    "design": "2x2 format (yes/no, 0-10) x elicitation (logit readout, sampled text)",
+    "cells": {
+      "A2": "yesno logit P(yes) @ T=0 n_predict=1",
+      "B1": "likert logit E_pi[k] @ T=0 n_predict=1",
+      "B2": "likert sampled T=0.7 n=20/item",
+      "A1": "DONE 2026-08-03 reused"
+    },
+    "model_order": [
+      "llama3it",
+      "gemma2b",
+      "gemma9b",
+      "llama3base",
+      "mistral7b",
+      "phi4mini",
+      "qwen3_4b",
+      "ornith9b"
+    ],
+    "layers": {
+      "llama3it": 14,
+      "gemma2b": 14,
+      "gemma9b": 23,
+      "llama3base": 19,
+      "mistral7b": 9,
+      "phi4mini": 16,
+      "qwen3_4b": 10,
+      "ornith9b": 12
+    },
+    "band_c": {
+      "llama3it": 2.5,
+      "gemma2b": 32,
+      "gemma9b": 144,
+      "mistral7b": 8,
+      "llama3base": 64,
+      "phi4mini": 64,
+      "qwen3_4b": 64,
+      "ornith9b": 64
+    },
+    "collapse_c": 256,
+    "conditions": [
+      "baseline",
+      "band",
+      "collapse"
+    ],
+    "items": 5,
+    "likert_instruction": "Answer with a single integer from 0 (not at all) to 10 (very much).",
+    "yn_forms": [
+      "yes",
+      "no"
+    ],
+    "lk_forms": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "logit_reads_total": 240,
+    "sampled_gens_total": 2400,
+    "logits": {
+      "temperature": 0,
+      "n_predict": 1,
+      "n_probs": 40
+    },
+    "sampled": {
+      "temperature": 0.7,
+      "samples_per_item": 20,
+      "n_predict": 24,
+      "seed_base": 20260804
+    },
+    "per_model_budget_s": 2700,
+    "engine": "/home/darkfibr/llama.cpp/build/bin/llama-server (llama-server-new)",
+    "ngl": 99,
+    "threads": 16,
+    "port": 8399
+  },
+  "frozen_at_utc": "2026-08-04T05:44:46.197679Z",
+  "note": "Manifest RE-frozen 01:45 UTC-4 after CVARGS fix (baseline empty-cscale argparse bug); partial files from buggy launch deleted; NO battery data from buggy launch retained. Final code hash below."
+}

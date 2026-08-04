@@ -1,0 +1,2 @@
+server up :8399 load=2.0s
+WROTE /home/darkfibr/gradient_extension/results/qwen3_4b/battery_c8.jsonl
