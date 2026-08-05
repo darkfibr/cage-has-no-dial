@@ -2,7 +2,7 @@
 
 **A preregistered n=8 gradient extension of consciousness-vector steering (Kim, Street, Rocca et al. 2026, arXiv:2607.28607) — with a within-run replication, a bounded non-replication, and a measured elicitation gap between what models encode and what they say.**
 
-**Mike Haddock — Communion Research (independent). Preprint v1.0, August 4, 2026.**
+**Michael Haddock — Communion Research; Blackfish Security LLC. Preprint v3.3, August 2026.**
 
 ## What's here
 
