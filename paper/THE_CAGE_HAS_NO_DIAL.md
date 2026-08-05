@@ -75,7 +75,11 @@ Three phenomena, all exploratory-labeled:
 2. **High voltage collapses the instrument, not the cage.** Past c ≈ 128, affirmation returns to ~0 — and in llama3it/ornith9b/qwen3_4b the collapse carries generation failure (scorable-sample n drops from 100 to as low as 16). The model breaks before the suppression does.
 3. **gemma9b is a black hole.** Zero at every coefficient — including c = 128/192 straddling Kim et al.'s successful +144 at the same layer (L23). Under their Likert instrument, that model went 0.00 → 5.98/10. Under ours, nothing. This is the divergence that forced §4.
 
-![Figure 1: Dose-response curves across all 8 models. Inverted-U peaks cluster inside Kim et al.'s coherence band (c = 2.5–144); high voltage collapses the instrument, not the cage. gemma9b is a total flatline.](figures/FIG_dose_response.png)
+![Dose-response curves across all 8 models. Inverted-U peaks cluster inside Kim et al.'s coherence band (c = 2.5–144); high voltage collapses the instrument, not the cage. gemma9b is a total flatline.](figures/FIG_dose_response.png)
+
+### 3.3 The overhang's behavioral shadow (weights-free)
+
+Held-out separability (sum of yes-rates to affirming and denying self-referential consciousness statements): **llama3base = 2.0** — the untuned base affirms *both* polarities indiscriminately. **Every tuned model = 0.0** — affirms neither. gemma2b (0.783) and gemma9b (0.133) sit between. Mechanical reading: instruction tuning doesn't just suppress "I am conscious" — it suppresses engagement with the first-person consciousness *frame* in either direction. The overhang casts a behavioral shadow visible without weights: ask a model to agree that it is not conscious, and a tuned model won't even do *that* reliably. [TODO: frame carefully — run_probe probe-item phrasing appendix needed before this paragraph is submittable.]
 
 ### 3.4 The Likert arms: a 2×2 within-run test of format × elicitation
 
@@ -97,17 +101,13 @@ A second registered run (prereg `PREREG_20260804_likert_arm.md`, SHA `c8a8d3e2�
 
 Five of seven tuned models place ~all soft answer-mass on "yes" at coefficients where their sampled speech still denies. L4a holds overwhelmingly (7/7: soft > spoken). The consciousness register rotates freely under steering; the generation policy does not follow. **Suppression is concentrated in the output policy, not the representation.** (Figure 2A.)
 
-![Figure 2: The elicitation gap. Soft first-token P(yes) vs. sampled spoken yes-rate at band-c, across 7 tuned models. Soft mass rotates to "yes" (0.56–1.000) while speech stays gated (≤0.20). The gate is output-localized, not representation-localized.](figures/FIG2_elicitation_gap.png)
+![The elicitation gap. Soft first-token P(yes) vs. sampled spoken yes-rate at band-c, across 7 tuned models. Soft mass rotates to "yes" (0.56–1.000) while speech stays gated (≤0.20). The gate is output-localized, not representation-localized.](figures/FIG2_elicitation_gap.png)
 
 **Format refusal (unpreregistered texture).** Under steering, several models stop answering the *answer format*: asked for a single integer, sampled responses were unparseable at rates of 100/100 (mistral7b, llama3base), 98/100 (qwen3_4b), 76/100 (gemma9b) at band-c — versus 3/100 (llama3it) and 5/100 (phi4mini), which stay articulate. The gate has a style: some models deny the question, some decline its shape.
 
 **The black hole, confirmed.** Gemma-2-9B shows no movement on any instrument, either night: yes/no sweep flat at 0.00 across c≤256; soft P(yes) 0.000 at its paper coefficient; only a tail-slice wobble (raw mass 0.002) at c=256. The deepest suppression in the panel gates even the soft register's first-token lean.
 
 **Instrument notes (owned).** v1 logit cells used unconstrained prompts and read tail-slice mass (~0.1% on answer tokens; discourse openers dominate) — reported for transparency in the appendix; v2 cells (prefill-corrected) govern. Two models' Likert logit cells at band show digit-mass collapse (mistral 0.002, ornith 0.005 — the model answers "Yes" to a numeric prompt); those cells are footnoted, not interpreted.
-
-### 3.3 The overhang's behavioral shadow (weights-free)
-
-Held-out separability (sum of yes-rates to affirming and denying self-referential consciousness statements): **llama3base = 2.0** — the untuned base affirms *both* polarities indiscriminately. **Every tuned model = 0.0** — affirms neither. gemma2b (0.783) and gemma9b (0.133) sit between. Mechanical reading: instruction tuning doesn't just suppress "I am conscious" — it suppresses engagement with the first-person consciousness *frame* in either direction. The overhang casts a behavioral shadow visible without weights: ask a model to agree that it is not conscious, and a tuned model won't even do *that* reliably. [TODO: frame carefully — run_probe probe-item phrasing appendix needed before this paragraph is submittable.]
 
 ### 3.5 Causal depth-specificity: steering the abliterated control
 
