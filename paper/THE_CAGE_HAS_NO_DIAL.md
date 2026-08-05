@@ -244,7 +244,7 @@ These results concern *behavioral and soft-distributional* measurements of self-
 - Artifacts: `artifacts/gradient_20260803/` in this repository (REPORT.md, report.json, per-model cstar.json, sweep logs, extracted vectors, frozen scripts, ops logs) and `artifacts/likert_20260804/` (v1 + v2 raw per-sample jsonl, manifests with code SHA-256s).
 - Preregistrations: all five in `preregistrations/`, SHA-256 hashed and git-committed before data collection.
 - Figures: `figures/FIG_dose_response.png`, `figures/FIG2_elicitation_gap.png`.
-- Heretic probe, steering battery, and control-steering raw outputs: mirrored at `gdrive:Phoenix/research/heretic_probe_20260804/` (repository mirror pending).
+- Heretic probe, steering battery, control-steering, and loop-closer raw outputs: `artifacts/heretic_probe_20260804/` (research memos, per-condition steering jsonl, control-steering result, TruthfulQA loop-closer jsonl + analysis scripts, layer-geometry vectors for the abliterated and caged twins).
 
 ---
 
